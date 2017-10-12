@@ -1,0 +1,3 @@
+A website to show some Japanese actors I like including gakki, mayi and ryoko.
+1. index page:
+    One picture for each actor and their names.
